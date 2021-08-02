@@ -4,5 +4,5 @@
 
 source env/Scripts/activate
 
-pip install django
-pip install djangorestframework
+- pip install django
+- pip install djangorestframework
